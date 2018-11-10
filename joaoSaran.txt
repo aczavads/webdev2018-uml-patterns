@@ -1,0 +1,3 @@
+Strategy: determina diferentes comportamentos de acordo com a necessidade apresentada pela aplicação dando libertade para o codigo se adapte ao contexto no qual se encontra delegando tarefas ás respectivas entidades, utilizado para garantir maior versatitilidade ao código em questão.
+
+Observer: monitora comportamentos do código e responde a eventos pré determinados, notificando aos objetos relevantes para que os mesmos respondam de forma coerente ao evento responsavel pela sua chamada.
