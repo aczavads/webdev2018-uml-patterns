@@ -1,0 +1,7 @@
+>Strategy
+Encapsula um algorítmo para que, o mesmo seja mais manutenível e mais independente entre a regra de negócio.
+
+>Observer
+Define uma dependência entre objetos para que, quando um objeto mudar de estado, 
+todos os seus dependentes sejam notificados e atualizados automaticamente.
+
