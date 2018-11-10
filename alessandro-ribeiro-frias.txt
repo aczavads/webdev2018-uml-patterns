@@ -1,0 +1,2 @@
+Padrão Observer, se trata de um objeto que está sendo observado e que quando é realizado uma determinada alteração, é lançada uma notificação que esse objeto foi modificado.
+Padrão Strategy, se trata de conseguir atribuir responsabilidade em objetos sem ser no objeto principal, atribuição de responsabilidade, por exemplo adicionar uma forma de pagamento de um determinado carrinho de comprar em que cada tipo de pagamento tem um desconto, quando for adicionar um novo tipo de pagamento será criado um novo objeto com sua própria estratégia.
