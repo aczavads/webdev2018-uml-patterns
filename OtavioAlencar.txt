@@ -1,0 +1,3 @@
+	O observer é utilizado para propagar as atualizações feitas durante uma determinada ação, este fica responsavel por observar e avisar que a atualização foi executada, como no exemplo do cartão de crédito colocamos um observer para notificar que a ação ocorreu, porém este não modifica nenhuma ação que será executada por esta ação. 
+
+	O strategy é utilizado para fazer uma modificação na ação dependendo da regra estabelecida, como no exmplo do cartão criamos dois strategy que em determinado momento poderia dobrar os pontos quando fosse utilizado um cartão para fazer pagamento ou fazer com que estes mesmos pontos fossem divididos pela metade, qual usar irá depender de qual será o melhor para aquele determinado momento.
